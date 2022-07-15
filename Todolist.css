@@ -1,0 +1,152 @@
+.add-btn {
+    background-color: antiquewhite;
+    color: black;
+    margin-left: 8px;
+    /* width: 452px; */
+    padding: 6px;
+    font-weight: bold;
+  }
+  i.fa.fa-plus:hover{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin: 5px;
+  }
+  
+  i.fa.fa-edit:hover{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin: 3px;
+  }
+  i.fa.fa-trash:hover{
+    background-color: rgb(226, 56, 26);
+    color: rgb(250, 245, 245);
+    border-radius: 10px;
+    font-weight: bolder;
+  }
+  i.fa.fa-edit {
+    
+    color: rgb(59, 25, 250);
+    font-weight: bold;
+    padding: 5px;
+    margin: 3px;
+  
+  }
+  i.fa.fa-plus {
+    padding: 5px;
+    color: rgb(59, 25, 250);
+    font-weight: bold;
+    background: border-box;
+    margin: 5px;
+  }
+  i.fa.fa-trash {
+    background-color: yellow;
+    color: red;
+    padding: 5px;
+    font-weight: 500;
+    background: border-box;
+  }
+   p {
+     
+    display: inline;
+    font-weight: bold;
+    margin: 5px;
+    color: rgb(77, 74, 250);
+  }
+  input[type="text"] {
+    background-color: seashell;
+    color: black;
+    width: 90%;
+  }
+  input[type="email"] {
+    background-color: seashell;
+    color: black;
+    width: 90%;
+  }
+    
+    .delete-btn{
+      display: inline-block;
+        background-color: rgb(10, 10, 10);
+        width: 40px;
+        color: white;
+        font-weight: bold;
+        margin: 27px 0px 0px 5px;
+        text-align: center;
+        cursor: pointer;
+        padding: 5px;
+    }
+    h1 {
+      text-align: center;
+      background-color: #e7b51e;
+    }
+    .delete-btn:hover{
+      background-color: yellow;
+      color: red;
+      padding: 5px;
+      font-weight: 500;
+      background: border-box;
+    }
+    .eachitem{
+      background-color: rgb(211, 211, 248);
+    }
+    .d-flex {
+      display: flex!important;
+      border-bottom: 2px dotted red;
+      margin: 3px;
+  }
+    .center{
+      display: block;
+      margin: auto;
+      padding: 10px;  
+      background-color: rgb(187, 236, 236);
+      width: 500px;
+      height: 600px;
+    }
+    p#date {
+      color: #fbf4f4;
+      font-weight: 100;
+      background: black;
+  }
+    .main{
+      background-color: rgb(27, 164, 228);
+        margin: auto;
+        padding: 100px;
+    }
+    button.remove-all{
+      background-color: #e7b51e;
+      font-weight: bold;
+      align-items: center;
+      margin: 5px 160px;
+    }
+    button.remove-all:hover{
+      background-color: #fd4007;
+      border-radius: 10px;
+    }
+    .log_main {
+      
+      display: inline-block;
+      background-size: cover;
+      margin: auto;
+      width: 100%;
+      height: 100vh;
+  }
+  .log_center {
+      background-color: aquamarine;
+      padding: 50px;
+      margin: 50px;
+  }
+  label {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    margin: 10px;
+}
+input[type="password"] {
+  background-color: seashell;
+  color: black;
+  width: 90%;
+}
